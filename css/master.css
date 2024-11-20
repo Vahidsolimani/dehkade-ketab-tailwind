@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: vahid ;
+    src: url(../font/B\ Yekan_YasDL.com.ttf);
+}
